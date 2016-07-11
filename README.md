@@ -21,3 +21,4 @@ The following apps are created during study using the following:
     An app shows the different workout options. Clicking on anyone shows what are the exercises that 
     need to be done to finish the workout.
     This example demonstrates the use of fragments to have different views for a phone and tablet.
+    It also shows the use of child fragments.
