@@ -16,6 +16,8 @@ The following apps are created during study using the following:
 ### 3. Starbuzz
     An app showing the food available and details of the item clicked.
     It is a demonstration of how to use lists with different activities.
+    It has two implementations. One using a simple array to retrieve data. The second uses the 
+    database to retrieve and store data.
     
 ### 4. Workout
     An app shows the different workout options. Clicking on anyone shows what are the exercises that 
