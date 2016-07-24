@@ -24,3 +24,11 @@ The following apps are created during study using the following:
     need to be done to finish the workout.
     This example demonstrates the use of fragments to have different views for a phone and tablet.
     It also shows the use of child fragments.
+    
+    
+### 5. Joke
+    The app demonstrates the use of services.
+    
+    
+### 6. Odometer
+    The app demonstrates the use of bound services.
