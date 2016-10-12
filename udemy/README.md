@@ -8,9 +8,9 @@ The following apps were created during study using a Udemy course:
     The app allows you to click on a button and modify a TextView to show a message. You can also click 
 	on the settings option in the menu to see what is the message and reset the counter back to zero.
 
-### 2. Stopwatch
-    A simple stopwatch app. 
-    This app shows how to work with the different lifecycle methods. 
+### 2. Calculator
+    A simple calculator app. The app takes two numbers and performs addition, subtraction, multiplication 
+    and division. 
 
 ### 3. Starbuzz
     An app showing the food available and details of the item clicked.
