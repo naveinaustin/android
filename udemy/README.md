@@ -1,8 +1,8 @@
 # Android
 
-The following apps were created during study using:
+The following apps were created during study using a Udemy course:
 
-##Head First Android (Book)
+##Learn Android App Development With Java Step By Step
 
 ### 1. Button Click App
     The app allows you to click on a button and modify a TextView to show a message. You can also click 
