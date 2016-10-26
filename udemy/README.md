@@ -12,8 +12,6 @@ The following apps were created during study using a Udemy course:
     A simple calculator app. The app takes two numbers and performs addition, subtraction, multiplication 
     and division. 
 
-### 3. Starbuzz
-    An app showing the food available and details of the item clicked.
-    It is a demonstration of how to use lists with different activities.
-    It has two implementations. One using a simple array to retrieve data. The second uses the 
-    database to retrieve and store data.
+### 3. Top10Downloader
+    An app showing the Top 10 Downloads from the iTunes website. The app shows how to parse an xml feed
+	and show the data in the UI using a ListView
